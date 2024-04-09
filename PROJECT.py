@@ -24,6 +24,4 @@ for i in range(int(a), int(b) + 1):
     else:
         pcount+=1
 print("count:",pcount,"prime and",ccount,"composite numbers in the range")
-#Name=Ashutosh Kumar Ray
-#Reg-No=12223004
-#Roll-N0=17
+
